@@ -1,0 +1,12 @@
+{
+  "name": " AgriVision AI ",
+  "description": "AI Smart Farm Doctor providing crop diagnosis, soil \u0026 weather intelligence, fertilizer planning, yield prediction, and voice assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
